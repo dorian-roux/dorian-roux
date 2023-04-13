@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a target="_blank">
-  <img src="	https://img.shields.io/badge/mp.rouxdorian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="linkedin logo"  />
+  <img src="	https://img.shields.io/badge/mp.rouxdorian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="mail - mp.rouxdorian@gmail.com"  />
   </a>
 
   </a>
@@ -102,20 +102,24 @@
 <hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px"> 
 
 
-<table>
-  <tr>
-    <a href="https://github.com/dorian-roux/groupama-case-study">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study" />
-    </a>
-  </tr>
-  <tr>
-    <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" />
-    </a>
-  </tr>
-  <tr>
-    <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" />
-    </a>
-  </tr>
-</table>
+<div align="center">
+  <table style="width:100%;text-align:center">
+    <tr>
+      <a href="https://github.com/dorian-roux/groupama-case-study">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study" />
+      </a>
+    </tr>
+    <tr>
+      <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" />
+      </a>
+    </tr>
+    <tr>
+      <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" />
+      </a>
+    </tr>
+  </table>
+</dib>
+
+
