@@ -95,9 +95,9 @@
 ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
 
 
-<h2 align="center" style="font-weight:bold; margin-top:50px;">A Sample of My Projects</h2>
+<!-- <h2 align="center" style="font-weight:bold; margin-top:50px;">A Sample of My Projects</h2>
 
-<hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px"> 
+<hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px">  -->
 
 <!-- 
 <div align="center">
