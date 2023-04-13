@@ -23,8 +23,6 @@
   </h3>
   <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a target="_blank">
-  <img src="	https://img.shields.io/badge/mp.rouxdorian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="mail - mp.rouxdorian@gmail.com"  />
   </a>
 
   </a>
@@ -89,9 +87,9 @@
 
 
 <div align="center" style="margin-bottom:25px">
-  <img src="dorian-roux-dorian-roux.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="dorian-roux.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="dorian-roux-dorian-roux.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="dorian-roux.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
@@ -106,17 +104,17 @@
   <table style="width:100%;text-align:center">
     <tr>
       <a href="https://github.com/dorian-roux/groupama-case-study">
-        <img align="center" src="dorian-roux-dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study" />
+        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study" />
       </a>
     </tr>
     <tr>
       <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
-        <img align="center" src="dorian-roux-dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" />
+        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" />
       </a>
     </tr>
     <tr>
       <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
-        <img align="center" src="dorian-roux-dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" />
+        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" />
       </a>
     </tr>
   </table>
