@@ -4,7 +4,8 @@
 
 <h2 align="center" style="font-weight:bold">AI Engineer and Data Scientist at Lincoln</h2>
 
-<img src="src/img/bg-welcome.png" alt="Welcome to my Profile">
+<!-- <img src="src/img/bg-welcome.png" alt="Welcome to my Profile"> -->
+![alt text](https://github.com/dorian-roux/dorian-roux/blob/main/src/LoadingWelcome.gif "Welcome to my GITHUB Profile")
 
 
 <h2 align="center" style="font-weight:bold; margin-top:25px">About Me</h2>
