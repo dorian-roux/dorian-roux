@@ -18,14 +18,6 @@
   alt="linkedin logo"/>
 </a>
 
-<p align="center">
-  <span>
-    Feel Free to Contact me through my Various Online Channels
-  </span>
-  </br>
-
-</p>
-
 </br>
 
 - I am employed as a Data Scientist at Lincoln, a distinguished French consulting firm that specializes in Data-related projects.
