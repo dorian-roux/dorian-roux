@@ -18,6 +18,10 @@
 
 </br>
 
+<p align="center">
+  <h3 align="left">Some Words</h3>
+</p>
+
 - I am employed as a Data Scientist at Lincoln, a distinguished French consulting firm that specializes in Data-related projects.
 - I am on track to complete my Engineering degree with a specialization
       in Artificial Intelligence by the end of 2023 from CY Tech, France.
@@ -26,7 +30,7 @@
 </br>
 
 <p align="center">
-  <h3 align="center">My Technical Skills</h3>
+  <h3 align="left">My Technical Skills</h3>
 </p>
 
 | Programming Language | Web Development | Software and Tools |
