@@ -1,46 +1,20 @@
 <!-- README - GITHUB PROFILE -->
-# Hi, I am Dorian ROUX 👨‍💻
+<p align="center">
+ <img width="500opx" src="src/gif/LoadingWelcome.gif" align="center" alt="GitHub Readme Stats" />
+ <h1 align="center">Hi, I am Dorian ROUX 👨‍💻</h1>
+ <h2 align="center">Data Scienstist and AI Engineer</h2>
+</p>
 
-
-<div style="display:flex; justify-content:center;text-align:center;">
-  <img style="margin-top: 20px;margin-bottom: 20px;height: 200px;"
-   src="src/gif/LoadingWelcome.gif" alt="Welcome to my Profile">
-</div>
-
-<div style="display:flex; justify-content:center;text-align:center;">
-  <hr style="width: 100%;margin-top: 20px;
-  margin-bottom: 20px;"/>
-</div>
-
-<div
-  style="display:flex; justify-content:center;text-align:center;
-  font-size: 25px; font-weight: 750; font-family: 'Courier New', Courier, monospace;">
-  <span>
-    Data Scientist and AI Engineer
-  </span>
-</div>
-
-<div style="display:flex; justify-content:center;text-align:center;">
-  <hr style="width: 100%;margin-top: 20px;
-  margin-bottom: 20px;"/>
-</div>
-<div
-  style="display:flex; justify-content:center;text-align:center;
-  margin-top: 30px; margin-bottom: 10px;
-  font-size: 20px;font-weight: bold;font-family: 'Courier New', Courier, monospace;">
-  <span>
-    About Me
-  </span>
-</div>
+<p align="center">
+ <h3 align="center">About Me</h3>
+</p>
 
 <img
   src="https://komarev.com/ghpvc/?username=dorian-roux&label=Profile%20Visitors&color=790707&style=flat"
   alt="myProfileViews"/>
 
-<div style="display:flex; justify-content:center;text-align:center;
-border: 1px dashed #790707;display: block !important;padding: 10px;font-size: 15px;
-font-weight: bold; font-family: 'Courier New', Courier, monospace;
-margin-bottom: 30px;">
+
+<p align="center">
   <span>
     Feel Free to Contact me through my Various Online Channels
   </span>
@@ -50,33 +24,22 @@ margin-bottom: 30px;">
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       alt="linkedin logo"/>
     </a>
-</div>
+</p>
 
-<div>
-  <ul>
-    <li>
-      I am employed as a Data Scientist at Lincoln, a distinguished French
-      consulting firm that specializes in Data-related projects.
-    </li>
-    <li>
-      I am on track to complete my Engineering degree with a specialization
+</br>
+
+- I am employed as a Data Scientist at Lincoln, a distinguished French consulting firm that specializes in Data-related projects.
+- I am on track to complete my Engineering degree with a specialization
       in Artificial Intelligence by the end of 2023.
-    </li>
-    <li>
-      I graduated with an International Bachelor's degree in Data Science in
-      September 2022.
-    </li>
-  </ul>  
-</div>
+- I graduated with an International Bachelor's degree in Data Science in September 2022.
 
-<div style="display:flex; justify-content:center;text-align:center;
-display: block !important;padding: 10px;font-size: 15px;font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;margin-bottom: 30px;">
-  <span>
-    My Technical Skills
-  </span>
+</br>
 
-<div style="display:flex; justify-content:center;text-align:center;">
+<p align="center">
+  <h4 align="center">My Technical Skills</h4>
+</p>
+
+<p align="center">
   <table>
     <tr>
       <th style="text-align: center;">Programming Language</th>
@@ -85,12 +48,10 @@ display: block !important;padding: 10px;font-size: 15px;font-weight: bold;
     </tr>  
     <tr>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          height="32"
-          width="32"
-          alt="python logo"
-        />
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+          height="32" 
+          width="32" alt="logo"/>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
           height="32"
@@ -188,74 +149,31 @@ display: block !important;padding: 10px;font-size: 15px;font-weight: bold;
       </td>
     </tr>
   </table>
-</div>
+</p>
   
-<div 
-  style="display:flex; justify-content:center;text-align:center;margin-top: 30px;
-  margin-bottom: 10px;font-size: 20px;
-  font-weight: bold;font-family: 'Courier New', Courier, monospace;">
-  <span>
-    My Github Profile
-  </span>
-</div>
+<p align="center">
+ <h3 align="center">My Github Profile</h3>
+</p>
 
-<div style="display:flex; justify-content:center;text-align:center;">
-  <img
-    style="margin-left: 1%; margin-right: 1%;"
-    src="https://github-readme-stats.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150"  
-    alt="stats graph"
-  />
-  <img
-    style="margin-left: 1%; margin-right: 1%;"
-    src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
-    height="150"
-    alt="streak graph"
-  />
-  <img
-    style="margin-left: 1%; margin-right: 1%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="top languages"
-  />
-</div>
+| <img style="margin-left: 1%; margin-right: 1%;" src="https://github-readme-stats.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/> | <img style="margin-left: 1%; margin-right: 1%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages"/> | <img style="margin-left: 1%; margin-right: 1%;" src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/> |
+| ------------- | ------------- | ------------- |
+
 
 <div style="display:flex; justify-content:center;text-align:center;margin-top: 30px;
 margin-bottom: 10px;font-size: 20px;
 font-weight: bold;font-family: 'Courier New', Courier, monospace;">
   <span>
-    A Sample of My Projects
+    Top Repositories
   </span>
 </div>
 
-<div style="display:flex; justify-content:center;text-align:center margin-bottom:20px">
-  <a href="https://github.com/dorian-roux/groupama-case-study">
-    <img
-      style="margin-left:5%; margin-right:5%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study"
-      height="100"
-    />
-  </a>
-  <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
-    <img
-      style="margin-left:5%; margin-right:5%"  
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques"
-      height="100"
-    />
-  </a>
-  <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
-    <img
-      style="margin-left:5%; margin-right:5%"  
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP"
-      height="100"
-      />
-  </a>
-</div>
+| <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" height="100"/></a> | <a href="https://github.com/dorian-roux/DoLus-Sutom-APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" height="100"/></a> | <a href="https://github.com/dorian-roux/groupama-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=groupama-case-study" height="100"/></a> |
+| ------------- | ------------- | ------------- |
 
-<div style="display: block !important;padding: 10px;font-size: 15px;
-            font-weight: bold;
-            font-family: 'Courier New', Courier, monospace;margin-bottom: 30px;">
+</br>
+
+<p align="center">
   <span>I need more commits to feed him!</span>
   <br>
   ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
-</div>
+</p>
