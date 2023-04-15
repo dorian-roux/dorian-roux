@@ -1,0 +1,19 @@
+{
+    "MD033": {
+      "allowed_elements": [
+        "style",
+        "div",
+        "span",
+        "a",
+        "img",
+        "hr",
+        "br",
+        "table",
+        "tr",
+        "th",
+        "td",
+        "ul",
+        "li"
+      ]
+    }
+  }

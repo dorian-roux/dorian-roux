@@ -1,124 +1,315 @@
+---
+title: "My GITHUB Profile"
+author: "Dorian ROUX"
+date: "April 15, 2023"
+---
+
 <!-- README - GITHUB PROFILE -->
 
-<h1 align="center">Hi, I am Dorian ROUX 👨‍💻</h1>
+<style>
+  .ctn-align{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .txt-cent{
+    text-align: center;
+  }
+  .t-ctn{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .st-ctn{
+    font-size: 25px;
+    font-weight: 750;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .sst-ctn{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .border-s-inf{
+    border: 1px dashed #790707;
+  }
+  .s-inf{
+    display: block !important;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+  }
+  .add-mrg{
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  #gif{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 200px;
+  }
+  hr{
+    border: 2px solid #790707;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+</style>
 
-<h2 align="center" style="font-weight:bold">AI Engineer and Data Scientist at Lincoln</h2>
-
-<!-- <img src="src/img/bg-welcome.png" alt="Welcome to my Profile"> -->
-![alt text](https://github.com/dorian-roux/dorian-roux/blob/main/src/LoadingWelcome.gif "Welcome to my GITHUB Profile")
-
-
-<h2 align="center" style="font-weight:bold; margin-top:25px">About Me</h2>
-
-<hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px"> 
-
-<img 
-  src="https://komarev.com/ghpvc/?username=dorian-roux&label=Profile%20Visitors&color=0e75b6&style=flat" 
-  alt="myProfileViews" 
-/>
-
-
-<div align="center" style="margin-bottom:20px">
-  <h3 align="center" style="font-weight:bold">
-    Reach me through my Networks
-  </h3>
-  <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-
-  </a>
+<div class="t-ctn ctn-align">
+  <span>
+    Hi, I am Dorian ROUX 👨‍💻
+  </span>
 </div>
 
-<p>
+<div class="ctn-align">
+  <img id="gif" src="src/gif/LoadingWelcome.gif" alt="Welcome to my Profile">
+</div>
+
+<div class="ctn-align">
+  <hr/>
+</div>
+
+<div class="st-ctn ctn-align">
+  <span>
+    Data Scientist and AI Engineer
+  </span>
+</div>
+
+<div class="ctn-align">
+  <hr/>
+</div>
+
+<div class="sst-ctn ctn-align">
+  <span>
+    About Me
+  </span>
+</div>
+
+<img
+  src="https://komarev.com/ghpvc/?username=dorian-roux&label=Profile%20Visitors&color=790707&style=flat"
+  alt="myProfileViews"/>
+
+<div class="border-s-inf s-inf ctn-align">
+  <span>
+    Feel Free to Contact me through my Various Online Channels
+  </span>
+  </br>
+   <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      alt="linkedin logo"/>
+    </a>
+</div>
+
+<div>
   <ul>
-    <li>I am currently working as a Data Scientist at Lincoln, a French consulting company who intervenes in Data related projects.</li>
-    <li>I am passionate about Data Science and Development related projects where I invest myself.</li>
-    <li>Finalizing my Engineering path specialized in Artificial Intelligence in End 2023.</li>
-    <li>Graduated of an International Bachelor in Data Science in September 2022.</li>
-</p>
+    <li>
+      I am employed as a Data Scientist at Lincoln, a distinguished French
+      consulting firm that specializes in Data-related projects.
+    </li>
+    <li>
+      I am on track to complete my Engineering degree with a specialization
+      in Artificial Intelligence by the end of 2023.
+    </li>
+    <li>
+      I graduated with an International Bachelor's degree in Data Science in
+      September 2022.
+    </li>
+  </ul>  
+</div>
 
+<div class="s-inf ctn-align">
+  <span>
+    My Technical Skills
+  </span>
 
-<h3 align="center" style="font-weight:bold; margin-top:35px">
-  My Technical Skills
-</h3>
-
-<div align="center" style="text-align:center">
-  <table style="width:100%;text-align:center">
-    <tr style="border-bottom: 3px solid;">
-      <th style="text-align:center">Programming Language</th>
-      <th style="text-align:center">Web Development</th>
-      <th style="text-align:center" >Software and Tools</th>
+<div class="ctn-align">
+  <table>
+    <tr>
+      <th
+        class="txt-cent">
+        Programming Language
+      </th>
+      <th
+        class="txt-cent">
+          Web Development
+      </th>
+      <th
+        class="txt-cent">
+        Software and Tools
+      </th>
     </tr>  
     <tr>
-      <td style="border-right: 2px solid; height:150px;width:20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" alt="python logo"  /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="48" width="48" alt="r logo"  />
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          height="32"
+          width="32"
+          alt="python logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+          height="32"
+          width="32"
+          alt="r logo"
+        />
       </td>
-      <td style="border-right: 1px solid; height:150px; width:40%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" width="48" alt="nextjs logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" width="48" alt="nodejs logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" width="48" alt="yarn logo"  />
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          height="32"
+          width="32"
+          alt="html5 logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          height="32"
+          width="32"
+          alt="css3 logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="32"
+          width="32"
+          alt="javascript logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="32"
+          width="32"
+          alt="react logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+          height="32"
+          width="32"
+          alt="nextjs logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="32"
+          width="32"
+          alt="nodejs logo"
+        />
       </td>
-      <td style="height:150px;width:40%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" width="48" alt="docker logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" width="48" alt="azure logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" width="48" alt="googlecloud logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" width="48" alt="vscode logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" width="48" alt="linux logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48" alt="postgresql logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" width="48" alt="jupyter logo"  /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="48" width="48" alt="rstudio logo"  />
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="32"
+          width="32"
+          alt="git logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+          height="32"
+          width="32"
+          alt="linux logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="32"
+          width="32"
+          alt="docker logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+          height="32"
+          width="32"
+          alt="azure logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+          height="32"
+          width="32"
+          alt="googlecloud logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+          height="32"
+          width="32"
+          alt="vscode logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+          height="32"
+          width="32"
+          alt="jupyter logo"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
+          height="32"
+          width="32"
+          alt="rstudio logo"
+        />
       </td>
     </tr>
   </table>
 </div>
   
-
-
-
-<h2 align="center" style="font-weight:bold; margin-top:50px;">My Github Profile</h2>
-
-<hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px"> 
-
-
-<div align="center" style="margin-bottom:25px">
-  <!-- <img src="dorian-roux.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <!-- <img src="dorian-roux.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+<div class="sst-ctn ctn-align">
+  <span>
+    My Github Profile
+  </span>
 </div>
 
-![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
+<div class="ctn-align">
+  <img
+    class="add-mrg"
+    src="https://github-readme-stats.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"  
+    alt="stats graph"
+  />
+  <img
+    class="add-mrg"
+    src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
+    height="150"
+    alt="streak graph"
+  />
+  <img
+    class="add-mrg"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="top languages"
+  />
+</div>
 
+<div class="sst-ctn ctn-align">
+  <span>
+    A Sample of My Projects
+  </span>
+</div>
 
-<!-- <h2 align="center" style="font-weight:bold; margin-top:50px;">A Sample of My Projects</h2>
+<div class="ctn-align" style="margin-bottom:20px">
+  <a href="https://github.com/dorian-roux/groupama-case-study">
+    <img
+      style="margin-left:5%; margin-right:5%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study"
+      height="100"
+    />
+  </a>
+  <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
+    <img
+      style="margin-left:5%; margin-right:5%"  
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques"
+      height="100"
+    />
+  </a>
+  <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
+    <img
+      style="margin-left:5%; margin-right:5%"  
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP"
+      height="100"
+      />
+  </a>
+</div>
 
-<hr style="width:33%;height:2px;border-width:0;color:gray;background-color:darkred;margin-bottom:25px">  -->
-
-<!-- 
-<div align="center">
-  <table style="width:100%;text-align:center">
-    <tr>
-      <a href="https://github.com/dorian-roux/groupama-case-study">
-        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=Groupama-case-study" />
-      </a>
-    </tr>
-    <tr>
-      <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
-        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" />
-      </a>
-    </tr>
-    <tr>
-      <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
-        <img align="center" src="dorian-roux.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" />
-      </a>
-    </tr>
-  </table>
-</dib> -->
-
-
+<div class="s-inf ctn-align">
+  <span>I need more commits to feed him!</span>
+  <br>
+  ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
+</div>
