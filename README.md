@@ -27,7 +27,6 @@
       in Artificial Intelligence by the end of 2023 from CY Tech, France.
 - In late 2022, I obtained an International Bachelor of Data Science from CY Cergy Paris University, France.
 
-</br>
 
 <p align="center">
   <h3 align="left">My Technical Skills</h3>
