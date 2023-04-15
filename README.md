@@ -33,7 +33,7 @@
       in Artificial Intelligence by the end of 2023.
 - I graduated with an International Bachelor's degree in Data Science in September 2022.
 
-</br>
+
 
 <p align="center">
   <h4 align="center">My Technical Skills</h4>
@@ -151,6 +151,8 @@
   </table>
 </p>
   
+</br>
+
 <p align="center">
  <h3 align="center">My Github Profile</h3>
 </p>
