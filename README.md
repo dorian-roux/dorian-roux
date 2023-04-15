@@ -172,5 +172,5 @@
 
 </br>
 <span align="center">need more commits to feed him!</span>
-<br>
+
 ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
