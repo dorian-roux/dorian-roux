@@ -161,13 +161,11 @@
 | ------------- | ------------- | ------------- |
 
 
-<div style="display:flex; justify-content:center;text-align:center;margin-top: 30px;
-margin-bottom: 10px;font-size: 20px;
-font-weight: bold;font-family: 'Courier New', Courier, monospace;">
-  <span>
-    Top Repositories
-  </span>
-</div>
+</br>
+
+<p align="center">
+ <h3 align="center">A Sample of my Projects</h3>
+</p>
 
 | <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" height="100"/></a> | <a href="https://github.com/dorian-roux/DoLus-Sutom-APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" height="100"/></a> | <a href="https://github.com/dorian-roux/groupama-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=groupama-case-study" height="100"/></a> |
 | ------------- | ------------- | ------------- |
@@ -176,6 +174,6 @@ font-weight: bold;font-family: 'Courier New', Courier, monospace;">
 
 <p align="center">
   <span>I need more commits to feed him!</span>
-  <br>
-  ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
 </p>
+
+![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
