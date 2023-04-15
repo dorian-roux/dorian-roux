@@ -10,20 +10,20 @@
 </p>
 
 <img
-  src="https://komarev.com/ghpvc/?username=dorian-roux&label=Profile%20Visitors&color=790707&style=flat"
-  alt="myProfileViews"/>
-
+  src="https://komarev.com/ghpvc/?username=dorian-roux&label=Views&color=790707&style=flat"
+  alt="myProfileViews" height="25"/>
+<a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
+<img
+  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"
+  alt="linkedin logo"/>
+</a>
 
 <p align="center">
   <span>
     Feel Free to Contact me through my Various Online Channels
   </span>
   </br>
-   <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      alt="linkedin logo"/>
-    </a>
+
 </p>
 
 </br>
@@ -171,6 +171,6 @@
 | ------------- | ------------- | ------------- |
 
 </br>
-<span align="center">need more commits to feed him!</span>
+<span align="center">I need more commits to feed him!</span>
 
 ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
