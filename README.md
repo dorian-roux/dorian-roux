@@ -1,12 +1,8 @@
 <!-- README - GITHUB PROFILE -->
-<p align="center">
- <img width="500opx" src="src/gif/LoadingWelcome.gif" align="center" alt="GitHub Readme Stats" />
- <h1 align="center">Hi, I am Dorian ROUX 👨‍💻</h1>
- <h2 align="center">Data Scienstist and AI Engineer</h2>
-</p>
+<p align="center"><a href="https://github.com/dorian-roux"><img width="80%" alt="Hello, I'm Dorian ROUX. Data Scientist & AI Engineer" src="./assets/github-header-image .png" /></a></p>
 
 <p align="center">
- <h3 align="center">About Me</h3>
+ <h3 align="center" style="font-size:25px">About Me</h3>
 </p>
 
 <img
