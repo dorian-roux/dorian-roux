@@ -1,8 +1,10 @@
 <!-- README - GITHUB PROFILE -->
 <p align="center"><a href="https://github.com/dorian-roux"><img width="80%" alt="Hello, I'm Dorian ROUX. Data Scientist & AI Engineer" src="./assets/github-header-image .png" /></a></p>
 
+---
+
 <p align="center">
- <h3 align="center" style="font-size:25px">About Me</h3>
+ <h2 align="center">About Me</h2>
 </p>
 
 <img
@@ -24,7 +26,7 @@
 
 
 <p align="center">
-  <h4 align="center">My Technical Skills</h4>
+  <h3 align="center">My Technical Skills</h3>
 </p>
 
 <p align="center">
@@ -142,7 +144,7 @@
 </br>
 
 <p align="center">
- <h3 align="center">My Github Profile</h3>
+ <h2 align="center">My Github Profile</h2>
 </p>
 
 | <img style="margin-left: 1%; margin-right: 1%;" src="https://github-readme-stats.vercel.app/api?username=dorian-roux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/> | <img style="margin-left: 1%; margin-right: 1%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorian-roux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages"/> | <img style="margin-left: 1%; margin-right: 1%;" src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/> |
@@ -152,13 +154,10 @@
 </br>
 
 <p align="center">
- <h3 align="center">A Sample of my Projects</h3>
+ <h2 align="center">A Sample of my Projects</h2>
 </p>
 
 | <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques" height="100"/></a> | <a href="https://github.com/dorian-roux/DoLus-Sutom-APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP" height="100"/></a> | <a href="https://github.com/dorian-roux/groupama-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=groupama-case-study" height="100"/></a> |
 | ------------- | ------------- | ------------- |
-
-</br>
-<span align="center">I need more commits to feed him!</span>
 
 ![Snake animation](https://github.com/dorian-roux/dorian-roux/blob/output/github-contribution-grid-snake.svg)
