@@ -58,6 +58,12 @@
 </p>
 
 <p align="center">
+ <a href= "https://github.com/dorian-roux/Puzzle-Multi-Agents">
+   <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Puzzle-Multi-Agents"
+      height="110"/>
+  </a>
+ 
   <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques"
