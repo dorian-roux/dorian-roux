@@ -64,17 +64,20 @@
       height="110"/>
   </a>
  
-  <a href="https://github.com/dorian-roux/ing3-optimisation-metaheuristiques">
+  <a href="https://github.com/dorian-roux/Optimisation-Metaheuristic">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=ing3-optimisation-metaheuristiques"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=Optimisation-Metaheuristic"
       height="110"/>
   </a>
+ 
+  <br> 
+ 
   <a href="https://github.com/dorian-roux/DoLus-Sutom-APP">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=DoLus-Sutom-APP"
       height="110"/>
   </a>
-  <br>
+ 
   <a href="https://github.com/dorian-roux/groupama-case-study">
     <img  
       src="https://github-readme-stats.vercel.app/api/pin/?username=dorian-roux&repo=groupama-case-study"
