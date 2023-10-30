@@ -22,10 +22,8 @@
   <h3 align="left">Some Words</h3>
 </p>
 
-- I am employed as a Data Scientist at Lincoln, a distinguished French consulting firm that specializes in Data-related projects.
-- I am on track to complete my Engineering degree with a specialization
-      in Artificial Intelligence by the end of 2023 from CY Tech, France.
 - In late 2022, I obtained an International Bachelor of Data Science from CY Cergy Paris University, France.
+- In October 2023, I obtained my Engineering degree with a specialization in Artificial Intelligence from CY Tech, an French Enginnering School.
 
 
 <p align="center">
