@@ -1,36 +1,65 @@
-<!-- README - GITHUB PROFILE -->
-<p align="center"><a href="https://github.com/dorian-roux"><img width="80%" alt="Hello, I'm Dorian ROUX. Data Scientist & AI Engineer" src="./assets/github-header-image .png" /></a></p>
+Dorian ROUX
+============================
 
----
+Engineer in Data Science and Artificial Intelligence
+----------------------------------------------------
 
-<p align="center">
- <h2 align="center">About Me</h2>
-</p>
+* 🌍  I'm based in Paris, France
+* 🖥️  See my portfolio at [rouxdorian.com](http://rouxdorian.com)
+* ✉️  You can contact me at [mp.rouxdorian@gmail.com](mailto:mp.rouxdorian@gmail.com)
+
+
+## About Me
+
+👋 Hello! I'm a French engineer specializing in computer science, having graduated in 2023. My journey into the field began with a bachelor's degree in data science, which I completed in 2022.
+
+### Professional Focus
+
+🌟 Passionate about leveraging AI, Machine Learning (ML), and Deep Learning (DL) to derive meaningful insights from data, I actively engage in projects at the intersection of these fields. My work revolves around harnessing the power of data to solve complex problems and drive innovation.
+
+
+### Collaboration and Growth
+
+🤝 I am enthusiastic about collaborating with like-minded individuals and teams to tackle challenges that push the boundaries of what's possible with technology. Continuous learning and staying updated with the latest developments in AI and ML are integral parts of my professional journey.
+
+
+🚀 If you share a passion for technology-driven innovation and are exploring opportunities to collaborate on exciting projects, feel free to reach out. Let's connect and explore how we can contribute to shaping the future of AI and data science together.
 
 <a href="https://www.linkedin.com/in/dorian-roux/" target="_blank">
 <img
   src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"
   alt="linkedin logo"/>
 </a>
-<img align="right"
-  src="https://komarev.com/ghpvc/?username=dorian-roux&label=Views&color=790707&style=flat"
-  alt="myProfileViews" height="20"/>
 
-</br>
+<br>
 
-<p align="center">
-  <h3 align="left">Some Words</h3>
-</p>
+## Skills
 
-- In late 2022, I obtained an International Bachelor of Data Science from CY Cergy Paris University, France.
-- In October 2023, I obtained my Engineering degree with a specialization in Artificial Intelligence from CY Tech, an French Enginnering School.
+### Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,r,mongodb,mysql&theme=dark&titles=true)
 
 
-<p align="center">
-  <h3 align="left">My Technical Skills</h3>
-</p>
+### Machine Learning, Deep Learning, and AI
+![ML_DL_AI](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&titles=true)
 
-| Programming Language | Web Development | Software and Tools |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" alt="PYTHON"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32" width="32" alt="R"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="Javascript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32" alt="GIT"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" width="32" alt="Linux"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" width="32" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" width="32" alt="Azure"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" width="32" alt="Google Cloud"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" width="32" alt="VS Code"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" width="32" alt="Jupyter Notebook"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="32" width="32" alt="R Studio"/> 
-  
+### Cloud Platforms and Containeurization
+![Cloud Platforms](https://go-skill-icons.vercel.app/api/icons?i=googlecloud,azure,docker,vercel&theme=dark&titles=true)
+
+### Data Visualization and BI Tools
+![Data Visualization](https://go-skill-icons.vercel.app/api/icons?i=pbi,matplotlib,seaborn&theme=dark&titles=true)
+
+### Web Development
+![Web Development](https://go-skill-icons.vercel.app/api/icons?i=html,css,typescript,javascript,nginx,react,nodejs,nextjs,tailwind&theme=dark&titles=true)
+
+
+### Other Skills
+![Other Skills](https://go-skill-icons.vercel.app/api/icons?i=git,linux,vscode,raspberrypi,flask,selenium,streamlit,postman&theme=dark&titles=true)
+
+<br>
+
+## Profile Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dorian-roux&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorian-roux&radius=20&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="250" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/dorian-roux/dorian-roux/output/snake.svg" alt=""  />
+</div>
